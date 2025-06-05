@@ -3,11 +3,19 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>devops</groupId>
+<<<<<<< HEAD
   <artifactId>prgm10</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
 
   <name>prgm10</name>
+=======
+  <artifactId>push</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <packaging>jar</packaging>
+
+  <name>push</name>
+>>>>>>> 82a0324b785dafb0aa1116bc349b6a337ce3996d
   <url>http://maven.apache.org</url>
 
   <properties>
